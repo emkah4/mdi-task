@@ -1,0 +1,475 @@
+city,date,min-temp,max-temp,condition
+Vilnius,2023-02-01,-3.6,0.8,Moderate snow
+Vilnius,2023-02-02,-2.1,0.5,Light freezing rain
+Vilnius,2023-02-03,-6.2,-1.0,Overcast
+Vilnius,2023-02-04,-6.8,-2.8,Light freezing rain
+Vilnius,2023-02-05,-7.5,-4.7,Overcast
+Vilnius,2023-02-06,-8.8,-1.9,Light freezing rain
+Vilnius,2023-02-07,-4.5,-1.7,Light freezing rain
+Vilnius,2023-02-08,-6.2,0.5,Sunny
+Vilnius,2023-02-09,-3.4,0.0,Overcast
+Vilnius,2023-02-10,-2.8,2.0,Light freezing rain
+Vilnius,2023-02-11,-1.9,2.3,Patchy moderate snow
+Vilnius,2023-02-12,-6.3,0.3,Sunny
+Vilnius,2023-02-13,-1.1,2.4,Overcast
+Vilnius,2023-02-14,-2.2,2.9,Partly cloudy
+Vilnius,2023-02-15,-3.9,3.1,Overcast
+Vilnius,2023-02-16,-0.2,2.3,Light freezing rain
+Vilnius,2023-02-17,-0.7,2.7,Patchy rain possible
+Vilnius,2023-02-18,1.2,4.5,Moderate rain at times
+Vilnius,2023-02-19,-1.6,2.6,Patchy rain possible
+Vilnius,2023-02-20,-1.8,3.9,Moderate snow
+Vilnius,2023-02-21,-2.4,2.6,Light freezing rain
+Vilnius,2023-02-22,-8.0,-1.7,Light freezing rain
+Vilnius,2023-02-23,-10.2,-0.3,Overcast
+Vilnius,2023-02-24,-1.0,1.2,Patchy moderate snow
+Vilnius,2023-02-25,-1.9,0.7,Light freezing rain
+Vilnius,2023-02-26,-5.7,-1.0,Overcast
+Vilnius,2023-02-27,-6.3,-0.5,Cloudy
+Vilnius,2023-02-28,-6.0,2.7,Overcast
+Vilnius,2023-03-01,-1.5,1.8,Light snow
+Vilnius,2023-03-02,-1.6,2.9,Mist
+Vilnius,2023-03-03,-0.9,4.1,Overcast
+Vilnius,2023-03-04,-3.4,1.2,Moderate or heavy snow showers
+Vilnius,2023-03-05,-3.7,1.4,Moderate or heavy snow showers
+Vilnius,2023-03-06,-4.7,1.7,Moderate or heavy snow showers
+Vilnius,2023-03-07,-6.3,1.8,Mist
+Vilnius,2023-03-08,-2.8,1.0,Light snow showers
+Vilnius,2023-03-09,-4.0,0.5,Overcast
+Vilnius,2023-03-10,-4.4,2.3,Heavy snow
+Vilnius,2023-03-11,-1.4,4.4,Light snow
+Vilnius,2023-03-12,-3.1,0.1,Moderate or heavy snow showers
+Vilnius,2023-03-13,-4.0,2.0,Light snow showers
+Vilnius,2023-03-14,4.6,8.1,Overcast
+Vilnius,2023-03-15,0.9,5.5,Heavy snow
+Vilnius,2023-03-16,-0.7,5.4,Light snow showers
+Vilnius,2023-03-17,-1.0,5.6,Overcast
+Vilnius,2023-03-18,0.7,6.8,Overcast
+Vilnius,2023-03-19,1.2,9.5,Overcast
+Vilnius,2023-03-20,2.9,9.2,Overcast
+Vilnius,2023-03-21,4.1,8.1,Light rain shower
+Vilnius,2023-03-22,1.4,11.8,Overcast
+Vilnius,2023-03-23,5.5,13.1,Light rain shower
+Vilnius,2023-03-24,6.2,13.0,Light rain shower
+Vilnius,2023-03-25,5.7,11.9,Patchy rain possible
+Vilnius,2023-03-26,3.9,9.2,Light rain shower
+Vilnius,2023-03-27,-1.4,3.8,Moderate snow
+Vilnius,2023-03-28,-3.0,1.0,Moderate or heavy snow showers
+Vilnius,2023-03-29,-3.2,6.8,Moderate or heavy snow showers
+Vilnius,2023-03-30,-1.7,4.9,Heavy snow
+Vilnius,2023-03-31,4.5,8.4,Light rain shower
+Vilnius,2023-01-01,7.5,10.7,Patchy rain possible
+Vilnius,2023-01-02,5.8,8.4,Moderate or heavy rain shower
+Vilnius,2023-01-03,2.4,8.4,Patchy rain possible
+Vilnius,2023-01-04,0.5,2.4,Patchy rain possible
+Vilnius,2023-01-05,-5.9,5.4,Light freezing rain
+Vilnius,2023-01-06,-12.8,-7.1,Partly cloudy
+Vilnius,2023-01-07,-12.0,-5.5,Light freezing rain
+Vilnius,2023-01-08,-5.3,-1.9,Overcast
+Vilnius,2023-01-09,-3.8,1.6,Light freezing rain
+Vilnius,2023-01-10,-1.0,1.1,Patchy moderate snow
+Vilnius,2023-01-11,-2.3,-0.5,Overcast
+Vilnius,2023-01-12,-3.0,1.3,Light freezing rain
+Vilnius,2023-01-13,2.0,3.8,Patchy rain possible
+Vilnius,2023-01-14,1.6,4.1,Overcast
+Vilnius,2023-01-15,1.6,3.5,Heavy rain at times
+Vilnius,2023-01-16,0.1,3.4,Overcast
+Vilnius,2023-01-17,0.4,3.7,Light freezing rain
+Vilnius,2023-01-18,2.1,6.1,Heavy rain at times
+Vilnius,2023-01-19,-0.2,5.1,Patchy rain possible
+Vilnius,2023-01-20,-1.3,1.4,Light freezing rain
+Vilnius,2023-01-21,-0.2,1.8,Light freezing rain
+Vilnius,2023-01-22,-2.8,0.7,Overcast
+Vilnius,2023-01-23,-2.4,0.0,Overcast
+Vilnius,2023-01-24,-2.9,0.1,Overcast
+Vilnius,2023-01-25,-3.7,0.7,Light freezing rain
+Vilnius,2023-01-26,-3.5,0.8,Light freezing rain
+Vilnius,2023-01-27,-1.4,0.3,Light freezing rain
+Vilnius,2023-01-28,-4.1,-0.3,Overcast
+Vilnius,2023-01-29,-5.5,-0.2,Light freezing rain
+Vilnius,2023-01-30,-0.6,0.7,Patchy moderate snow
+Vilnius,2023-01-31,-3.4,0.7,Light freezing rain
+Vilnius,2023-05-01,0.3,14.7,Sunny
+Vilnius,2023-05-02,5.0,16.9,Light rain shower
+Vilnius,2023-05-03,3.3,11.2,Light rain shower
+Vilnius,2023-05-04,1.3,12.7,Partly cloudy
+Vilnius,2023-05-05,0.8,9.0,Light snow showers
+Vilnius,2023-05-06,-1.7,9.9,Partly cloudy
+Vilnius,2023-05-07,-0.3,12.4,Partly cloudy
+Vilnius,2023-05-08,1.3,14.0,Partly cloudy
+Vilnius,2023-05-09,3.0,14.5,Partly cloudy
+Vilnius,2023-05-10,4.1,15.9,Partly cloudy
+Vilnius,2023-05-11,4.9,16.5,Partly cloudy
+Vilnius,2023-05-12,7.1,19.4,Partly cloudy
+Vilnius,2023-05-13,10.8,21.5,Patchy rain possible
+Vilnius,2023-05-14,11.1,22.1,Overcast
+Vilnius,2023-05-15,11.6,21.8,Light rain shower
+Vilnius,2023-05-16,9.8,16.7,Light rain shower
+Vilnius,2023-05-17,7.9,15.6,Moderate rain
+Vilnius,2023-05-18,5.2,8.8,Light rain
+Vilnius,2023-05-19,6.7,14.3,Patchy rain possible
+Vilnius,2023-05-20,9.1,20.6,Partly cloudy
+Vilnius,2023-05-21,7.8,19.7,Partly cloudy
+Vilnius,2023-05-22,10.6,20.5,Partly cloudy
+Vilnius,2023-05-23,12.5,20.5,Partly cloudy
+Vilnius,2023-05-24,13.3,21.0,Partly cloudy
+Vilnius,2023-05-25,12.1,23.4,Partly cloudy
+Vilnius,2023-05-26,8.5,23.2,Partly cloudy
+Vilnius,2023-05-27,5.3,18.0,Overcast
+Vilnius,2023-05-28,4.4,20.3,Sunny
+Vilnius,2023-05-29,7.7,20.4,Patchy rain possible
+Vilnius,2023-05-30,8.8,20.5,Patchy rain possible
+Vilnius,2023-05-31,3.4,20.2,Overcast
+Vilnius,2023-04-01,0.0,8.2,Light rain
+Vilnius,2023-04-02,-1.8,4.5,Light snow showers
+Vilnius,2023-04-03,-3.4,1.1,Moderate or heavy snow showers
+Vilnius,2023-04-04,-3.2,3.3,Light snow showers
+Vilnius,2023-04-05,-2.2,4.6,Freezing fog
+Vilnius,2023-04-06,0.3,10.5,Overcast
+Vilnius,2023-04-07,4.5,8.5,Overcast
+Vilnius,2023-04-08,5.8,14.0,Patchy rain possible
+Vilnius,2023-04-09,6.7,13.6,Light drizzle
+Vilnius,2023-04-10,5.8,14.5,Patchy rain possible
+Vilnius,2023-04-11,7.1,15.0,Partly cloudy
+Vilnius,2023-04-12,6.1,14.6,Patchy rain possible
+Vilnius,2023-04-13,7.7,10.4,Light rain shower
+Vilnius,2023-04-14,6.7,12.8,Light rain shower
+Vilnius,2023-04-15,2.9,7.2,Overcast
+Vilnius,2023-04-16,2.6,6.6,Light sleet
+Vilnius,2023-04-17,6.4,13.2,Light rain shower
+Vilnius,2023-04-18,5.0,15.2,Partly cloudy
+Vilnius,2023-04-19,6.2,15.5,Overcast
+Vilnius,2023-04-20,5.5,16.0,Cloudy
+Vilnius,2023-04-21,4.1,15.6,Overcast
+Vilnius,2023-04-22,8.8,15.5,Light rain shower
+Vilnius,2023-04-23,10.5,17.6,Partly cloudy
+Vilnius,2023-04-24,8.0,18.3,Partly cloudy
+Vilnius,2023-04-25,7.4,16.7,Moderate or heavy rain shower
+Vilnius,2023-04-26,4.2,10.3,Patchy rain possible
+Vilnius,2023-04-27,0.6,10.4,Light rain shower
+Vilnius,2023-04-28,0.1,11.1,Patchy rain possible
+Vilnius,2023-04-29,1.4,14.0,Overcast
+Vilnius,2023-04-30,4.2,15.1,Light rain shower
+Vilnius,2023-06-01,7.1,21.7,Cloudy
+Vilnius,2023-06-02,4.4,14.8,Patchy rain possible
+Vilnius,2023-06-03,2.0,15.0,Patchy rain possible
+Vilnius,2023-06-04,4.4,17.6,Patchy rain possible
+Vilnius,2023-06-05,6.4,20.6,Cloudy
+Vilnius,2023-06-06,7.7,22.9,Sunny
+Vilnius,2023-06-07,10.4,25.2,Partly cloudy
+Kaunas,2023-01-01,9.9,12.2,Heavy rain at times
+Kaunas,2023-01-02,6.6,9.6,Heavy rain at times
+Kaunas,2023-01-03,1.9,9.3,Patchy rain possible
+Kaunas,2023-01-04,1.1,3.6,Moderate rain at times
+Kaunas,2023-01-05,-4.0,6.2,Heavy rain at times
+Kaunas,2023-01-06,-9.4,-5.9,Partly cloudy
+Kaunas,2023-01-07,-8.4,-2.5,Light freezing rain
+Kaunas,2023-01-08,-2.4,0.5,Overcast
+Kaunas,2023-01-09,-1.6,2.5,Light freezing rain
+Kaunas,2023-01-10,0.8,2.8,Patchy rain possible
+Kaunas,2023-01-11,0.3,1.7,Overcast
+Kaunas,2023-01-12,-0.8,3.7,Patchy moderate snow
+Kaunas,2023-01-13,4.8,7.2,Moderate rain at times
+Kaunas,2023-01-14,3.1,6.1,Overcast
+Kaunas,2023-01-15,2.8,6.1,Heavy rain at times
+Kaunas,2023-01-16,1.5,4.7,Overcast
+Kaunas,2023-01-17,1.0,4.7,Moderate rain at times
+Kaunas,2023-01-18,1.9,4.7,Moderate rain at times
+Kaunas,2023-01-19,-0.2,4.0,Overcast
+Kaunas,2023-01-20,-1.0,1.8,Patchy moderate snow
+Kaunas,2023-01-21,-0.2,1.7,Light freezing rain
+Kaunas,2023-01-22,-2.5,0.8,Overcast
+Kaunas,2023-01-23,-3.8,-0.7,Overcast
+Kaunas,2023-01-24,-3.6,-0.3,Partly cloudy
+Kaunas,2023-01-25,-2.1,1.4,Partly cloudy
+Kaunas,2023-01-26,-4.1,1.2,Partly cloudy
+Kaunas,2023-01-27,-1.8,0.7,Light freezing rain
+Kaunas,2023-01-28,-3.2,0.7,Overcast
+Kaunas,2023-01-29,-3.5,0.9,Light freezing rain
+Kaunas,2023-01-30,0.1,2.3,Patchy moderate snow
+Kaunas,2023-01-31,-1.4,1.8,Light freezing rain
+Kaunas,2023-02-01,-1.2,1.7,Patchy moderate snow
+Kaunas,2023-02-02,-1.9,0.9,Patchy moderate snow
+Kaunas,2023-02-03,-4.8,0.0,Light freezing rain
+Kaunas,2023-02-04,-4.7,-0.6,Light freezing rain
+Kaunas,2023-02-05,-5.6,-2.4,Partly cloudy
+Kaunas,2023-02-06,-5.7,-0.2,Light freezing rain
+Kaunas,2023-02-07,-2.9,0.5,Partly cloudy
+Kaunas,2023-02-08,-3.2,2.4,Partly cloudy
+Kaunas,2023-02-09,-1.7,1.4,Overcast
+Kaunas,2023-02-10,-1.5,3.9,Light freezing rain
+Kaunas,2023-02-11,-1.1,4.0,Patchy moderate snow
+Kaunas,2023-02-12,-4.3,2.9,Sunny
+Kaunas,2023-02-13,1.0,3.3,Overcast
+Kaunas,2023-02-14,0.0,5.7,Partly cloudy
+Kaunas,2023-02-15,-1.4,3.6,Partly cloudy
+Kaunas,2023-02-16,0.2,3.8,Partly cloudy
+Kaunas,2023-02-17,1.3,6.2,Patchy rain possible
+Kaunas,2023-02-18,1.9,5.9,Moderate rain at times
+Kaunas,2023-02-19,-0.5,4.7,Patchy rain possible
+Kaunas,2023-02-20,-0.8,4.8,Moderate or heavy snow showers
+Kaunas,2023-02-21,-1.0,3.4,Overcast
+Kaunas,2023-02-22,-4.3,-0.2,Light freezing rain
+Kaunas,2023-02-23,-4.9,1.9,Overcast
+Kaunas,2023-02-24,0.4,2.3,Light freezing rain
+Kaunas,2023-02-25,-1.3,0.8,Light freezing rain
+Kaunas,2023-02-26,-4.0,-0.5,Overcast
+Kaunas,2023-02-27,-4.1,0.9,Partly cloudy
+Kaunas,2023-02-28,-2.7,4.2,Overcast
+Kaunas,2023-03-01,-0.4,5.5,Overcast
+Kaunas,2023-03-02,-0.8,5.6,Overcast
+Kaunas,2023-03-03,-0.2,4.9,Overcast
+Kaunas,2023-03-04,-2.4,2.3,Moderate or heavy snow showers
+Kaunas,2023-03-05,-2.1,2.7,Moderate or heavy snow showers
+Kaunas,2023-03-06,-2.8,2.8,Moderate or heavy snow showers
+Kaunas,2023-03-07,-3.4,2.6,Overcast
+Kaunas,2023-03-08,-2.6,1.6,Patchy heavy snow
+Kaunas,2023-03-09,-4.4,1.1,Light snow
+Kaunas,2023-03-10,-2.6,3.3,Heavy snow
+Kaunas,2023-03-11,-1.1,4.3,Moderate rain
+Kaunas,2023-03-12,-2.7,0.8,Patchy heavy snow
+Kaunas,2023-03-13,-2.3,3.0,Moderate snow
+Kaunas,2023-03-14,5.4,10.2,Patchy light drizzle
+Kaunas,2023-03-15,1.4,6.9,Light snow showers
+Kaunas,2023-03-16,-0.3,6.3,Patchy sleet possible
+Kaunas,2023-03-17,-0.2,6.8,Overcast
+Kaunas,2023-03-18,2.0,8.2,Overcast
+Kaunas,2023-03-19,2.4,10.8,Overcast
+Kaunas,2023-03-20,4.0,11.4,Overcast
+Kaunas,2023-03-21,4.6,7.6,Light drizzle
+Kaunas,2023-03-22,1.5,11.4,Light drizzle
+Kaunas,2023-03-23,6.2,12.1,Patchy rain possible
+Kaunas,2023-03-24,6.2,13.2,Light rain shower
+Kaunas,2023-03-25,5.6,12.6,Patchy rain possible
+Kaunas,2023-03-26,3.8,8.1,Light rain shower
+Kaunas,2023-03-27,-1.5,3.0,Light snow showers
+Kaunas,2023-03-28,-2.3,1.8,Light snow showers
+Kaunas,2023-03-29,-2.3,8.0,Overcast
+Kaunas,2023-03-30,0.3,6.6,Moderate snow
+Kaunas,2023-03-31,6.0,10.7,Light rain shower
+Kaunas,2023-05-01,0.6,13.8,Cloudy
+Kaunas,2023-05-02,5.6,17.3,Light rain shower
+Kaunas,2023-05-03,3.7,12.1,Light drizzle
+Kaunas,2023-05-04,1.4,13.3,Partly cloudy
+Kaunas,2023-05-05,0.7,8.9,Moderate snow
+Kaunas,2023-05-06,-1.7,11.9,Partly cloudy
+Kaunas,2023-05-07,0.4,13.4,Cloudy
+Kaunas,2023-05-08,1.9,14.3,Partly cloudy
+Kaunas,2023-05-09,3.6,15.3,Partly cloudy
+Kaunas,2023-05-10,4.5,16.5,Partly cloudy
+Kaunas,2023-05-11,5.3,18.4,Partly cloudy
+Kaunas,2023-05-12,7.4,19.1,Partly cloudy
+Kaunas,2023-05-13,10.3,20.4,Patchy rain possible
+Kaunas,2023-05-14,10.3,21.8,Partly cloudy
+Kaunas,2023-05-15,11.4,21.4,Light rain shower
+Kaunas,2023-05-16,11.5,15.3,Light rain shower
+Kaunas,2023-05-17,7.0,15.1,Moderate rain
+Kaunas,2023-05-18,4.0,13.4,Overcast
+Kaunas,2023-05-19,6.8,12.5,Overcast
+Kaunas,2023-05-20,9.7,22.0,Partly cloudy
+Kaunas,2023-05-21,8.2,20.3,Partly cloudy
+Kaunas,2023-05-22,12.6,20.2,Partly cloudy
+Kaunas,2023-05-23,13.2,20.9,Partly cloudy
+Kaunas,2023-05-24,12.5,21.8,Partly cloudy
+Kaunas,2023-05-25,11.3,22.1,Overcast
+Kaunas,2023-05-26,8.0,23.0,Cloudy
+Kaunas,2023-05-27,4.8,17.1,Overcast
+Kaunas,2023-05-28,5.3,20.0,Sunny
+Kaunas,2023-05-29,8.3,18.9,Patchy rain possible
+Kaunas,2023-05-30,7.2,20.3,Partly cloudy
+Kaunas,2023-05-31,3.6,21.0,Overcast
+Kaunas,2023-04-01,-0.3,6.3,Light rain shower
+Kaunas,2023-04-02,-0.6,5.2,Moderate snow
+Kaunas,2023-04-03,-3.1,2.7,Moderate or heavy snow showers
+Kaunas,2023-04-04,-2.8,4.4,Cloudy
+Kaunas,2023-04-05,-2.0,6.1,Mist
+Kaunas,2023-04-06,0.5,10.5,Light drizzle
+Kaunas,2023-04-07,5.1,10.6,Light drizzle
+Kaunas,2023-04-08,6.3,15.0,Patchy rain possible
+Kaunas,2023-04-09,7.8,13.8,Light rain shower
+Kaunas,2023-04-10,7.8,14.7,Patchy rain possible
+Kaunas,2023-04-11,8.2,16.3,Partly cloudy
+Kaunas,2023-04-12,7.5,15.2,Patchy rain possible
+Kaunas,2023-04-13,8.4,11.5,Light rain shower
+Kaunas,2023-04-14,8.2,12.8,Light rain shower
+Kaunas,2023-04-15,3.9,6.9,Overcast
+Kaunas,2023-04-16,3.2,5.6,Light sleet
+Kaunas,2023-04-17,4.8,10.7,Mist
+Kaunas,2023-04-18,6.1,13.0,Cloudy
+Kaunas,2023-04-19,5.6,14.8,Light rain shower
+Kaunas,2023-04-20,5.2,16.1,Overcast
+Kaunas,2023-04-21,4.7,15.7,Sunny
+Kaunas,2023-04-22,6.4,15.7,Patchy rain possible
+Kaunas,2023-04-23,8.0,17.5,Cloudy
+Kaunas,2023-04-24,9.7,18.6,Sunny
+Kaunas,2023-04-25,6.3,15.7,Light rain shower
+Kaunas,2023-04-26,3.7,10.0,Light rain shower
+Kaunas,2023-04-27,0.9,10.3,Light rain shower
+Kaunas,2023-04-28,0.5,11.1,Light rain shower
+Kaunas,2023-04-29,2.1,15.0,Overcast
+Kaunas,2023-04-30,5.4,17.5,Patchy rain possible
+Kaunas,2023-06-01,7.4,21.3,Overcast
+Kaunas,2023-06-02,4.7,14.6,Light rain shower
+Kaunas,2023-06-03,1.5,15.9,Patchy rain possible
+Kaunas,2023-06-04,5.4,18.6,Patchy rain possible
+Kaunas,2023-06-05,5.9,18.9,Partly cloudy
+Kaunas,2023-06-06,8.5,22.7,Partly cloudy
+Kaunas,2023-06-07,10.6,24.5,Sunny
+Klaipėda,2023-02-01,1.7,3.1,Moderate rain at times
+Klaipėda,2023-02-02,0.6,3.3,Overcast
+Klaipėda,2023-02-03,-1.2,1.4,Patchy rain possible
+Klaipėda,2023-02-04,-2.0,1.0,Overcast
+Klaipėda,2023-02-05,-3.4,-0.9,Sunny
+Klaipėda,2023-02-06,-1.5,2.0,Overcast
+Klaipėda,2023-02-07,-0.4,2.0,Partly cloudy
+Klaipėda,2023-02-08,-0.6,2.3,Patchy rain possible
+Klaipėda,2023-02-09,0.2,1.5,Overcast
+Klaipėda,2023-02-10,1.2,5.2,Patchy rain possible
+Klaipėda,2023-02-11,-0.2,4.8,Moderate rain at times
+Klaipėda,2023-02-12,-1.7,3.8,Overcast
+Klaipėda,2023-02-13,2.3,3.6,Cloudy
+Klaipėda,2023-02-14,1.9,5.9,Partly cloudy
+Klaipėda,2023-02-15,1.1,3.9,Cloudy
+Klaipėda,2023-02-16,0.6,3.1,Overcast
+Klaipėda,2023-02-17,2.5,5.3,Heavy rain at times
+Klaipėda,2023-02-18,2.6,5.5,Moderate rain at times
+Klaipėda,2023-02-19,1.6,3.9,Sunny
+Klaipėda,2023-02-20,1.0,5.8,Moderate or heavy snow showers
+Klaipėda,2023-02-21,0.3,3.9,Patchy rain possible
+Klaipėda,2023-02-22,-1.7,0.8,Light freezing rain
+Klaipėda,2023-02-23,-1.6,2.8,Overcast
+Klaipėda,2023-02-24,1.8,2.8,Patchy rain possible
+Klaipėda,2023-02-25,-0.5,2.3,Moderate rain at times
+Klaipėda,2023-02-26,-2.1,1.7,Light snow
+Klaipėda,2023-02-27,-0.8,3.6,Sunny
+Klaipėda,2023-02-28,1.9,4.4,Overcast
+Klaipėda,2023-01-01,5.8,8.8,Heavy rain at times
+Klaipėda,2023-01-02,4.8,6.9,Moderate rain at times
+Klaipėda,2023-01-03,2.2,6.4,Moderate rain at times
+Klaipėda,2023-01-04,1.7,4.1,Heavy rain at times
+Klaipėda,2023-01-05,-4.3,5.2,Patchy rain possible
+Klaipėda,2023-01-06,-6.8,-4.4,Overcast
+Klaipėda,2023-01-07,-6.4,-0.6,Light freezing rain
+Klaipėda,2023-01-08,-0.3,2.7,Overcast
+Klaipėda,2023-01-09,0.7,2.6,Patchy rain possible
+Klaipėda,2023-01-10,2.0,4.0,Overcast
+Klaipėda,2023-01-11,2.4,3.5,Patchy rain possible
+Klaipėda,2023-01-12,2.3,5.2,Patchy rain possible
+Klaipėda,2023-01-13,3.7,5.9,Heavy rain at times
+Klaipėda,2023-01-14,3.6,4.7,Moderate rain at times
+Klaipėda,2023-01-15,3.4,4.9,Heavy rain at times
+Klaipėda,2023-01-16,1.4,4.1,Patchy rain possible
+Klaipėda,2023-01-17,1.1,3.7,Moderate rain at times
+Klaipėda,2023-01-18,1.0,3.6,Patchy rain possible
+Klaipėda,2023-01-19,-0.1,3.1,Overcast
+Klaipėda,2023-01-20,-1.1,2.5,Overcast
+Klaipėda,2023-01-21,-0.7,1.4,Overcast
+Klaipėda,2023-01-22,-1.8,1.3,Overcast
+Klaipėda,2023-01-23,-3.4,-0.5,Partly cloudy
+Klaipėda,2023-01-24,-2.0,2.8,Overcast
+Klaipėda,2023-01-25,1.4,3.1,Overcast
+Klaipėda,2023-01-26,0.8,2.1,Patchy rain possible
+Klaipėda,2023-01-27,-1.6,2.0,Overcast
+Klaipėda,2023-01-28,-1.8,1.4,Cloudy
+Klaipėda,2023-01-29,1.6,3.7,Patchy rain possible
+Klaipėda,2023-01-30,1.5,3.9,Moderate or heavy rain shower
+Klaipėda,2023-01-31,1.6,3.2,Cloudy
+Klaipėda,2023-03-01,2.2,6.0,Overcast
+Klaipėda,2023-03-02,2.4,6.7,Partly cloudy
+Klaipėda,2023-03-03,2.5,4.1,Overcast
+Klaipėda,2023-03-04,-0.7,3.6,Blizzard
+Klaipėda,2023-03-05,-0.4,1.6,Moderate or heavy snow showers
+Klaipėda,2023-03-06,-0.3,2.0,Moderate or heavy snow showers
+Klaipėda,2023-03-07,-0.6,2.1,Moderate or heavy snow showers
+Klaipėda,2023-03-08,-0.2,1.7,Patchy heavy snow
+Klaipėda,2023-03-09,-1.5,2.2,Patchy snow possible
+Klaipėda,2023-03-10,-1.7,2.3,Moderate snow
+Klaipėda,2023-03-11,-1.3,3.6,Light sleet
+Klaipėda,2023-03-12,-0.2,1.2,Patchy heavy snow
+Klaipėda,2023-03-13,-0.1,3.5,Moderate or heavy snow showers
+Klaipėda,2023-03-14,4.9,7.1,Light rain shower
+Klaipėda,2023-03-15,2.5,3.9,Light snow
+Klaipėda,2023-03-16,1.8,6.2,Moderate or heavy snow showers
+Klaipėda,2023-03-17,0.9,5.7,Overcast
+Klaipėda,2023-03-18,3.3,6.3,Overcast
+Klaipėda,2023-03-19,3.6,6.8,Patchy light drizzle
+Klaipėda,2023-03-20,4.1,7.6,Cloudy
+Klaipėda,2023-03-21,2.5,5.8,Patchy rain possible
+Klaipėda,2023-03-22,2.4,6.3,Light drizzle
+Klaipėda,2023-03-23,5.0,6.5,Moderate rain
+Klaipėda,2023-03-24,4.1,7.7,Light rain
+Klaipėda,2023-03-25,4.5,6.1,Patchy rain possible
+Klaipėda,2023-03-26,3.7,5.1,Light drizzle
+Klaipėda,2023-03-27,-0.4,3.1,Moderate snow
+Klaipėda,2023-03-28,-1.0,1.0,Blizzard
+Klaipėda,2023-03-29,-0.4,4.6,Overcast
+Klaipėda,2023-03-30,2.6,5.9,Light rain
+Klaipėda,2023-03-31,3.1,6.2,Light drizzle
+Klaipėda,2023-05-01,5.1,8.6,Cloudy
+Klaipėda,2023-05-02,6.4,10.0,Light rain
+Klaipėda,2023-05-03,2.9,10.0,Patchy rain possible
+Klaipėda,2023-05-04,3.6,9.5,Sunny
+Klaipėda,2023-05-05,-0.1,8.4,Partly cloudy
+Klaipėda,2023-05-06,0.0,11.2,Sunny
+Klaipėda,2023-05-07,2.6,11.4,Overcast
+Klaipėda,2023-05-08,4.4,11.1,Partly cloudy
+Klaipėda,2023-05-09,5.5,14.6,Sunny
+Klaipėda,2023-05-10,6.1,14.7,Overcast
+Klaipėda,2023-05-11,7.0,15.3,Partly cloudy
+Klaipėda,2023-05-12,8.3,15.4,Partly cloudy
+Klaipėda,2023-05-13,11.1,17.2,Patchy light drizzle
+Klaipėda,2023-05-14,11.6,16.7,Patchy rain possible
+Klaipėda,2023-05-15,10.9,17.7,Light rain shower
+Klaipėda,2023-05-16,9.5,11.7,Light rain shower
+Klaipėda,2023-05-17,7.8,9.9,Overcast
+Klaipėda,2023-05-18,6.3,13.1,Overcast
+Klaipėda,2023-05-19,6.7,15.2,Sunny
+Klaipėda,2023-05-20,9.3,17.9,Partly cloudy
+Klaipėda,2023-05-21,9.7,17.8,Partly cloudy
+Klaipėda,2023-05-22,10.6,16.7,Sunny
+Klaipėda,2023-05-23,13.0,16.8,Partly cloudy
+Klaipėda,2023-05-24,11.4,17.7,Partly cloudy
+Klaipėda,2023-05-25,9.7,13.7,Overcast
+Klaipėda,2023-05-26,7.7,15.4,Overcast
+Klaipėda,2023-05-27,6.0,16.2,Overcast
+Klaipėda,2023-05-28,8.6,15.7,Partly cloudy
+Klaipėda,2023-05-29,11.1,15.9,Overcast
+Klaipėda,2023-05-30,8.3,17.7,Partly cloudy
+Klaipėda,2023-05-31,6.6,16.7,Overcast
+Klaipėda,2023-04-01,0.5,6.4,Light snow
+Klaipėda,2023-04-02,0.1,7.1,Overcast
+Klaipėda,2023-04-03,-1.0,4.9,Cloudy
+Klaipėda,2023-04-04,-1.6,4.7,Partly cloudy
+Klaipėda,2023-04-05,-0.6,4.3,Moderate or heavy snow showers
+Klaipėda,2023-04-06,0.6,6.1,Light drizzle
+Klaipėda,2023-04-07,4.5,8.9,Patchy rain possible
+Klaipėda,2023-04-08,6.6,11.1,Light rain shower
+Klaipėda,2023-04-09,6.5,9.4,Light rain shower
+Klaipėda,2023-04-10,5.7,9.3,Overcast
+Klaipėda,2023-04-11,6.2,13.2,Partly cloudy
+Klaipėda,2023-04-12,7.0,12.4,Patchy rain possible
+Klaipėda,2023-04-13,6.6,11.1,Light drizzle
+Klaipėda,2023-04-14,7.6,11.2,Overcast
+Klaipėda,2023-04-15,4.6,7.2,Overcast
+Klaipėda,2023-04-16,3.6,7.4,Overcast
+Klaipėda,2023-04-17,4.8,8.4,Overcast
+Klaipėda,2023-04-18,4.1,9.7,Overcast
+Klaipėda,2023-04-19,2.9,11.7,Moderate rain
+Klaipėda,2023-04-20,6.1,15.8,Sunny
+Klaipėda,2023-04-21,5.0,12.0,Sunny
+Klaipėda,2023-04-22,5.1,11.6,Sunny
+Klaipėda,2023-04-23,5.6,14.1,Partly cloudy
+Klaipėda,2023-04-24,9.8,14.3,Light rain shower
+Klaipėda,2023-04-25,5.4,9.1,Light rain shower
+Klaipėda,2023-04-26,5.3,7.9,Patchy sleet possible
+Klaipėda,2023-04-27,5.6,8.3,Patchy rain possible
+Klaipėda,2023-04-28,5.0,9.1,Patchy rain possible
+Klaipėda,2023-04-29,3.4,12.5,Moderate rain
+Klaipėda,2023-04-30,5.1,10.1,Sunny
+Klaipėda,2023-06-01,10.0,15.7,Overcast
+Klaipėda,2023-06-02,5.3,13.3,Light rain shower
+Klaipėda,2023-06-03,7.6,14.6,Partly cloudy
+Klaipėda,2023-06-04,8.7,14.8,Overcast
+Klaipėda,2023-06-05,8.6,16.6,Sunny
+Klaipėda,2023-06-06,10.6,17.9,Sunny
+Klaipėda,2023-06-07,12.5,18.9,Partly cloudy
