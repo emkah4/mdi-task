@@ -2,7 +2,6 @@ from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 from . import weather
 
-
 class DatabaseWriter:
     def __init__(self, connection_string):
         self.engine = create_engine(connection_string)
