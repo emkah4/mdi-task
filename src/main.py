@@ -18,7 +18,9 @@ def main():
     user_choice = input("Enter your choice (1 or 2): ")
     
     if user_choice == '1':
+        print("Requesting API...")
         current_weather = weather_api.get_current_weather(cities)
+        print("")
         for record in current_weather:
             print(record)
 

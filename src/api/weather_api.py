@@ -44,10 +44,13 @@ class WeatherApi:
     
     def filter_current_weather(self, data):
         """Filters and formats the current weather returned by the API"""
-        city_weather = []
-        for record in data:
-            city = record['location']['name']
-            city_weather.append(f"Weather in {city}: Temparature: {record['current']['temp_c']}°C; Conditions: {record['current']['condition']['text']}; Humidity: {record['current']['humidity']}%")
+        city_weather = [
+            f"Weather in {record['location']['name']}: "
+            f"Temperature: {record['current']['temp_c']}°C; "
+            f"Conditions: {record['current']['condition']['text']}; "
+            f"Humidity: {record['current']['humidity']}%"
+            for record in data
+        ]
         return city_weather
     
     def fetch_and_filter_data(self, city_month_pair):
