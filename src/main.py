@@ -26,12 +26,16 @@ def main():
 
     elif user_choice == '2':
         print("Requesting API...")
+
         weather_data = weather_api.get_historic_weather_data(cities)
         csv_writer = CsvWriter(file_path='../result-data/weather_data.csv')
         csv_writer.write_data(weather_data)
+
         print("Data gathered successfully. Writing to CSV...")
         print("Should the app also store the data to a database table?")
+
         user_choice_csv_db = input("Enter your choice (y or n): ")
+
         if user_choice_csv_db == 'y':
             print("Writing data to database...")
             connection_string=os.getenv('CON_STRING')
@@ -44,7 +48,7 @@ def main():
             print("Invalid input. Please enter 'y' or 'n'.")
 
     else:
-        print("Invalid choice. Please enter 1 or 2.")
+        print("Invalid input. Please enter 1 or 2.")
 
 if __name__ == "__main__":
     main()
