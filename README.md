@@ -24,4 +24,4 @@ Because of using weatherapi.com more code had to written to make it work and str
 - Launch the app: python3 main.py
 
 ## Note
-The queries for the SQL task cna be found in sql-task.txt
+The queries for the SQL task can be found in sql-task.txt
