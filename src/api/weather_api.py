@@ -73,7 +73,7 @@ class WeatherApi:
     def get_historic_weather_data(self, cities):
         """Fetches and filters historic weather data for the given cities"""
         current_month = datetime.now().month
-        months = [(i + 1, calendar.monthrange(2023, i + 1)[1]) for i in range(current_month)]
+        months = [(i + 1, calendar.monthrange(2023, i + 1)[1]) for i in range(current_month)] # array with month and number of days in that month - using weatherapi.com you can only get data for 1 month per 1 request
         city_month_pairs = list(product(cities, months))
 
         with ThreadPoolExecutor(max_workers=3) as executor:

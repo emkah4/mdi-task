@@ -2,7 +2,7 @@
 ## Why was weatherapi.com used instead of visuallcrossing.com
 In itself, Visualcrossing provides a great service as weather API. It has field selection at the API level making it really easy to use. Unfortunately the free account only allows 1000 queries/day, which is not enough to retrieve historical weather data starting from 2023 - when send a GET requests with the route "https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline/Vilnius,LT/2023-01-01/2023-06-06" error 429 (too many requests) is shown immediately.
 For this reason, another weather API service was used - weatherapi.com. This service is not nearly as polished as Visualcrossing, since you cannot use field selection at an API level, only data for 1 month can be requested per one request and the API's return data is not structured as well as Visualcrossing, though, owing to the fact that after registering you get 2 weeks of Pro Plan use, it got the job done.
-Because of using weatherapi.com more code had to written to make it work and structure the data by the requirements of the task (filter_data functions in weather_api.py).
+Because of using weatherapi.com more code had to written to make it work and structure the data by the requirements of the task.
 ## Prerequisites and deployment
 ### Prerequisites
 - Python must be installed in the system (latest release)
@@ -22,3 +22,6 @@ Because of using weatherapi.com more code had to written to make it work and str
 - source evn/bin/activate
 - Install dependencies: pip install -r requirements.txt
 - Launch the app: python3 main.py
+
+## Note
+The queries for the SQL task cna be found in sql-task.txt
